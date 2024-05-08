@@ -11,18 +11,11 @@
 ![Hibernate](https://img.shields.io/badge/-Hibernate-1E7775?style=for-the-badge&logo=Hibernate&logoColor=6296CC)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-1E7775?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC)
 
-
-![C](https://img.shields.io/badge/-C-1E7775?style=for-the-badge&logo=C&logoColor=6296CC)
-![C++](https://img.shields.io/badge/-C++-1E7775?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![QT](https://img.shields.io/badge/-QT-1E7775?style=for-the-badge&logo=QT&logoColor=6296CC)
-![Make](https://img.shields.io/badge/-Make-1E7775?style=for-the-badge&logo=Make&logoColor=6296CC)
-![GTest](https://img.shields.io/badge/-GTest-1E7775?style=for-the-badge&logo=GTest&logoColor=6296CC)
-
-
 ![Git](https://img.shields.io/badge/-GIT-1E7775?style=for-the-badge&logo=GIT&logoColor=F88C00)
 ![Bash](https://img.shields.io/badge/-Bash-1E7775?style=for-the-badge&logo=Bash&logoColor=6296CC)
 ![Docker](https://img.shields.io/badge/-Docker-1E7775?style=for-the-badge&logo=Docker&logoColor=6296CC)
 ![GitlabCICD](https://img.shields.io/badge/-GitlabCICD-1E7775?style=for-the-badge&logo=GitlabCICD&logoColor=6296CC)
+
 
 ### Leetcode Stats:
 
@@ -32,6 +25,7 @@
 ### Projects I've worked on
 | Project name | Description | Tools |
 |-|-|-|
+| [SimpleTimer](https://github.com/dirtymaster/SimpleTimer) | Timer to track work time | Java, Swing, Gradle, macAppBundle
 | [SmartCalcJava](https://github.com/abceff/SmartCalcJava) | Implementation of a calculator with a user interface, mathematical functions and plotting graphs | Java, Maven, Swing, JNI, C++
 | [Sockets](https://github.com/abceff/Sockets) | Client-server application based on Java—Sockets API | Java, Maven, Spring, JDBC, Postgresql
 | [Spring](https://github.com/abceff/Spring) | Enterprise-level Java development and the basics of the Spring framework | Java, Maven, Spring, JDBC, HikariCP, Postgresql, HSQLDB
